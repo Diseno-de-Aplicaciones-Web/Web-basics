@@ -1,0 +1,18 @@
+body {
+    background: black;
+    color: gray;
+    margin: 0 400px;
+}
+
+img {
+    height: 400px;
+    float: right;
+}
+
+li {
+    list-style: none;
+}
+
+h1, h2 {
+    color: white;
+}
